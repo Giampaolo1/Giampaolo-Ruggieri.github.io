@@ -23,4 +23,4 @@ Go to my [GitHub](https://github.com/Giampaolo1) to see my jobs or explore my
 
 ### JS exercises
 
-- [JS exercise](https://giampaolo1.github.io/JS-exercise/)
+- [JS exercise](https://giampaolo1.github.io/JS-exercise/) (Under Construction)
