@@ -13,14 +13,14 @@ Go to my [GitHub](https://github.com/Giampaolo1) to see my jobs or explore my
 ### Most Popular Layouts
 
 1. [SpotifyWeb](https://jpspotify.netlify.app/)
-2. [Teambit](https://github.com/Giampaolo1/sass-teambit)
-3. [DigitalOcean](https://github.com/Giampaolo1/html-css-digitalocean)  
-4. [Hubspot](https://github.com/Giampaolo1/html-css-hubspot)  
+2. [TeambitRepo](https://github.com/Giampaolo1/sass-teambit)
+3. [DigitalOcean](https://giampaolo1.github.io/html-css-digitalocean/)  
+4. [HubSpot](https://giampaolo1.github.io/html-css-hubspot/)  
 
 ### Animations
 
-- [Animations](https://github.com/Giampaolo1/html-css-animation-filter)
+- [Animations](https://giampaolo1.github.io/html-css-animation-filter/)
 
-### JS exercises
+### JS Exercise Section
 
-- [JS exercise](https://giampaolo1.github.io/JS-exercise/) (Under Construction)
+- [JS ExerciseSection](https://giampaolo1.github.io/JS-exercise/) (Under Construction)
