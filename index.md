@@ -12,9 +12,9 @@ Go to my [GitHub](https://github.com/Giampaolo1) to see my jobs or explore my
 
 ### Most Popular Layouts
 
-1. [SpotifyWeb](https://jpspotify.netlify.app/)  (Repo [here](https://github.com/Giampaolo1/html-css-spotifyweb))
-<!-- 2. [SpotifyWeb](https://jpspotify.netlify.app/)  (Repo [here](https://github.com/Giampaolo1/html-css-spotifyweb))
-3. [SpotifyWeb](https://jpspotify.netlify.app/)  (Repo [here](https://github.com/Giampaolo1/html-css-spotifyweb)) -->
+1. [SpotifyWeb](https://jpspotify.netlify.app/)  
+2. [Teambit](https://jpspotify.netlify.app/)  
+3. [Teambit2](https://jpspotify.netlify.app/)  
 
 ### JS exercises
 
