@@ -19,7 +19,7 @@ Go to my [GitHub](https://github.com/Giampaolo1) to see my jobs or explore my
 
 ### Animations
 
-- [Animations](https://giampaolo1.github.io/html-css-animation-filter/)
+- [Animations](https://github.com/Giampaolo1/html-css-animation-filter)
 
 ### JS exercises
 
