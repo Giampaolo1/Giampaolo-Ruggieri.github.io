@@ -7,5 +7,5 @@ Go to my [GitHub](https://github.com/Giampaolo1) to see my jobs or explore my
 ### Most Popular jobs
 
 1. [Spotify](https://jpspotify.netlify.app/)
-2. [WazzupWeb](https://jpboolzap.netlify.app/)
+2. [WhatsappWeb](https://jpboolzap.netlify.app/)
 3. [Netflix](https://jpboolfix.netlify.app/)
