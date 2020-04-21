@@ -9,4 +9,4 @@ Go to my [GitHub](https://github.com/Giampaolo1) to see my jobs or explore my
 1. [SpotifyWeb](https://jpspotify.netlify.app/) (Repo available [Here](https://github.com/Giampaolo1/html-css-spotifyweb))
 2. [WhatsAppWeb](https://jpboolzap.netlify.app/) (Repo available [Here](https://github.com/Giampaolo1/js-html-css-boolzap))
 3. [Netflix](https://jpboolfix.netlify.app/) (Repo available [Here](https://github.com/Giampaolo1/ajax-ex-boolflix))
-4. AirBnb (Repo available [Here](https://github.com/Giampaolo1/bool-bnb))
+4. [AirBnbRepo](https://github.com/Giampaolo1/bool-bnb))
