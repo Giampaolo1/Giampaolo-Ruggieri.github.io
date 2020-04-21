@@ -6,5 +6,5 @@ Explore my [Linkedin](https://www.linkedin.com/in/giampaolo-r-17a75512b/)
 ### Most Popular jobs
 
 1. [Spotify](https://jpboolfix.netlify.app/)
-1. [WazzupWeb](https://jpboolzap.netlify.app/)
-1. [Netflix](https://jpspotify.netlify.app/)
+2. [WazzupWeb](https://jpboolzap.netlify.app/)
+3. [Netflix](https://jpspotify.netlify.app/)
