@@ -15,7 +15,7 @@ Go to my [GitHub](https://github.com/Giampaolo1) to see my jobs or explore my
 1. [SpotifyWeb](https://jpspotify.netlify.app/)
 2. [TeambitRepo](https://github.com/Giampaolo1/sass-teambit)
 3. [DigitalOcean](https://giampaolo1.github.io/html-css-digitalocean/)  
-4. [HubSpot](https://giampaolo1.github.io/html-css-hubspot/)  
+<!-- 4. [HubSpot](https://giampaolo1.github.io/html-css-hubspot/)   -->
 
 ### Animations
 
