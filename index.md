@@ -1,8 +1,8 @@
 # Giampaolo Ruggieri
-## JR Web Dev
+## JR WEB DEV
 
-Go to my [GitHub](https://github.com/Giampaolo1) to see my jobs or <br>
-Explore my [Linkedin](https://www.linkedin.com/in/giampaolo-r-17a75512b/)
+Go to my [GitHub](https://github.com/Giampaolo1) to see my jobs or explore my
+[Linkedin](https://www.linkedin.com/in/giampaolo-r-17a75512b/).
 
 ### Most Popular jobs
 
