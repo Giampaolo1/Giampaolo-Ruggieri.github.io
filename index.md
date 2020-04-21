@@ -1,5 +1,5 @@
 # Giampaolo Ruggieri
-## JR WEB DEV </>
+### JR WEB DEVELOPER </>
 
 Go to my [GitHub](https://github.com/Giampaolo1) to see my jobs or explore my
 [Linkedin](https://www.linkedin.com/in/giampaolo-r-17a75512b/).
