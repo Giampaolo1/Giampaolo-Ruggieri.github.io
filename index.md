@@ -1,5 +1,5 @@
 # Giampaolo Ruggieri
-### JR WEB DEVELOPER </>
+## JR WEB DEVELOPER </>
 
 Go to my [GitHub](https://github.com/Giampaolo1) to see my jobs or explore my
 [Linkedin](https://www.linkedin.com/in/giampaolo-r-17a75512b/)
@@ -16,6 +16,6 @@ Go to my [GitHub](https://github.com/Giampaolo1) to see my jobs or explore my
 <!-- 2. [SpotifyWeb](https://jpspotify.netlify.app/)  (Repo [here](https://github.com/Giampaolo1/html-css-spotifyweb))
 3. [SpotifyWeb](https://jpspotify.netlify.app/)  (Repo [here](https://github.com/Giampaolo1/html-css-spotifyweb)) -->
 
-## JS exercises
+### JS exercises
 
-- [JSexercise](https://giampaolo1.github.io/JS-exercise/)
+- [JS exercise](https://giampaolo1.github.io/JS-exercise/)
