@@ -24,10 +24,12 @@ See [Task Assigned](https://docs.google.com/document/d/1bj_mOkXW3Pmv33xFubiMjrgO
 <!-- 4. [HubSpot](https://giampaolo1.github.io/html-css-hubspot/)   -->
 
 ### Extra
-
 - [Animations](https://giampaolo1.github.io/html-css-animation-filter/)
 - [Diploma](https://www.credential.net/13f76e96-e4e8-4f72-8cfe-0d467113dbf1)
 
-### JS Exercise Section
+### JS Section
+- [JS Exercises](https://giampaolo1.github.io/JS-exercise/)
+### PHP Section
+- [PHP Exercises](https://giampaolo1.github.io/JS-exercise/)
 
-- [JS ExerciseSection](https://giampaolo1.github.io/JS-exercise/)
+<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
