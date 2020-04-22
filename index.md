@@ -3,7 +3,10 @@
 
 Go to my [GitHub](https://github.com/Giampaolo1) to see my jobs or explore my
 [Linkedin](https://www.linkedin.com/in/giampaolo-r-17a75512b/) <br>
-You can also have a look at my CV [Here](https://www.canva.com/design/DAD6L6nybiI/M5HWfc1FHJAG4be5nMaBVw/view?utm_content=DAD6L6nybiI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+You can also have a look at my CV [Here](https://www.canva.com/design/DAD6L6nybiI/M5HWfc1FHJAG4be5nMaBVw/view?utm_content=DAD6L6nybiI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) and at my
+[Diploma](https://www.credential.net/13f76e96-e4e8-4f72-8cfe-0d467113dbf1)
+
+
 
 ### Most Popular Jobs
 
@@ -25,10 +28,10 @@ See [Task Assigned](https://docs.google.com/document/d/1bj_mOkXW3Pmv33xFubiMjrgO
 
 ### Extra
 - [Animations](https://giampaolo1.github.io/html-css-animation-filter/)
-- [Diploma](https://www.credential.net/13f76e96-e4e8-4f72-8cfe-0d467113dbf1)
+
 ### JS Section
 - [JS Exercises](https://giampaolo1.github.io/JS-exercise/)
-### PHP Section (Under construction)
-- [PHP Exercises](https://www.php.net/)
+<!-- ### PHP Section (Under construction)
+- [PHP Exercises](https://www.php.net/) -->
 
-<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+<!-- <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" /> -->
