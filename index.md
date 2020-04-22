@@ -26,10 +26,9 @@ See [Task Assigned](https://docs.google.com/document/d/1bj_mOkXW3Pmv33xFubiMjrgO
 ### Extra
 - [Animations](https://giampaolo1.github.io/html-css-animation-filter/)
 - [Diploma](https://www.credential.net/13f76e96-e4e8-4f72-8cfe-0d467113dbf1)
-
 ### JS Section
 - [JS Exercises](https://giampaolo1.github.io/JS-exercise/)
-### PHP Section
-- [PHP Exercises](https://giampaolo1.github.io/JS-exercise/)
+### PHP Section (Under construction)
+- [PHP Exercises](https://www.php.net/)
 
 <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
