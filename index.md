@@ -24,13 +24,13 @@ See [Task Assigned](https://docs.google.com/document/d/1bj_mOkXW3Pmv33xFubiMjrgO
 1. [SpotifyWeb](https://jpspotify.netlify.app/)
 2. [TeambitRepo](https://github.com/Giampaolo1/sass-teambit) (Sass)
 3. [DigitalOcean](https://giampaolo1.github.io/html-css-digitalocean/)  
-<!-- 4. [HubSpot](https://giampaolo1.github.io/html-css-hubspot/)   -->
-
-### Extra
 - [Animations](https://giampaolo1.github.io/html-css-animation-filter/)
+
+<!-- 4. [HubSpot](https://giampaolo1.github.io/html-css-hubspot/)   -->
 
 ### JS Section
 - [JS Exercises](https://giampaolo1.github.io/JS-exercise/)
+
 <!-- ### PHP Section (Under construction)
 - [PHP Exercises](https://www.php.net/) -->
 
