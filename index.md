@@ -8,7 +8,7 @@ Go to my [GitHub](https://github.com/Giampaolo1) to see my jobs or explore my
 
 1. [Netflix](https://jpboolfix.netlify.app/) (JS+Ajax)    (see [Repo](https://github.com/Giampaolo1/ajax-ex-boolflix))
 2. [WhatsAppWeb](https://jpboolzap.netlify.app/) (JS) (see [Repo](https://github.com/Giampaolo1/js-html-css-boolzap))
-3. [AirBnbRepo](PHP+Laravel)(https://github.com/Giampaolo1/bool-bnb)
+3. [AirBnbRepo](https://github.com/Giampaolo1/bool-bnb) (PHP+Laravel)
 
 ### Most Popular Layouts
 
