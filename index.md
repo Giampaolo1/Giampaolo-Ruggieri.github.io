@@ -17,9 +17,10 @@ Go to my [GitHub](https://github.com/Giampaolo1) to see my jobs or explore my
 3. [DigitalOcean](https://giampaolo1.github.io/html-css-digitalocean/)  
 <!-- 4. [HubSpot](https://giampaolo1.github.io/html-css-hubspot/)   -->
 
-### Animations
+### Extra
 
 - [Animations](https://giampaolo1.github.io/html-css-animation-filter/)
+- [Diploma](https://www.credential.net/13f76e96-e4e8-4f72-8cfe-0d467113dbf1)
 
 ### JS Exercise Section
 
