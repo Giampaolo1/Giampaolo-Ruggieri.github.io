@@ -6,12 +6,12 @@ Go to my [GitHub](https://github.com/Giampaolo1) to see my jobs or explore my
 
 ### Most Popular Jobs
 
-1. [Netflix](https://jpboolfix.netlify.app/) (JS+Ajax)    (see [Repo](https://github.com/Giampaolo1/ajax-ex-boolflix)
-and [Task Assigned](https://docs.google.com/document/d/1-kUoIxQaLIKUPa_JSH-MhlxoLL-RHmHr5Dc1eU8JnPA/edit))
-2. [WhatsAppWeb](https://jpboolzap.netlify.app/) (JS) (see [Repo](https://github.com/Giampaolo1/js-html-css-boolzap)
-and [Task Assigned](https://docs.google.com/document/d/1dujso_x1_UTTAR-XmwuURIec2CR79Ap8z81flzSYckY/edit))
+1. [Netflix](https://jpboolfix.netlify.app/) (JS+Ajax)    See [Repo](https://github.com/Giampaolo1/ajax-ex-boolflix)
+and [Task Assigned](https://docs.google.com/document/d/1-kUoIxQaLIKUPa_JSH-MhlxoLL-RHmHr5Dc1eU8JnPA/edit).
+2. [WhatsAppWeb](https://jpboolzap.netlify.app/) (JS) See [Repo](https://github.com/Giampaolo1/js-html-css-boolzap)
+and [Task Assigned](https://docs.google.com/document/d/1dujso_x1_UTTAR-XmwuURIec2CR79Ap8z81flzSYckY/edit).
 3. [AirBnbRepo](https://github.com/Giampaolo1/bool-bnb) (PHP+Laravel)
-(see [Task Assigned](https://docs.google.com/document/d/1bj_mOkXW3Pmv33xFubiMjrgOZtx4wyfO1N5Rz42gmH4/edit))
+See [Task Assigned](https://docs.google.com/document/d/1bj_mOkXW3Pmv33xFubiMjrgOZtx4wyfO1N5Rz42gmH4/edit).
 
 
 
