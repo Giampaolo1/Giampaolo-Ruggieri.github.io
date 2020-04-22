@@ -2,7 +2,7 @@
 ## JR WEB DEVELOPER </>
 
 Go to my [GitHub](https://github.com/Giampaolo1) to see my jobs or explore my
-[Linkedin](https://www.linkedin.com/in/giampaolo-r-17a75512b/)
+[Linkedin](https://www.linkedin.com/in/giampaolo-r-17a75512b/) <br>
 You can also have a look at my CV [here](https://www.canva.com/design/DAD6L6nybiI/M5HWfc1FHJAG4be5nMaBVw/view?utm_content=DAD6L6nybiI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ### Most Popular Jobs
