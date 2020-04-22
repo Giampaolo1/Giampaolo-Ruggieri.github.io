@@ -29,4 +29,4 @@ and [Task Assigned](https://docs.google.com/document/d/1dujso_x1_UTTAR-XmwuURIec
 
 ### JS Exercise Section
 
-- [JS ExerciseSection](https://giampaolo1.github.io/JS-exercise/) (Under Construction)
+- [JS ExerciseSection](https://giampaolo1.github.io/JS-exercise/)
