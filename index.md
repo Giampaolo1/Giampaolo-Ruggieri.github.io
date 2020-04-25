@@ -35,4 +35,4 @@ See [Task Assigned](https://docs.google.com/document/d/1bj_mOkXW3Pmv33xFubiMjrgO
 <!-- ### PHP Section (Under construction)
 - [PHP Exercises](https://www.php.net/) -->
 
-<!-- <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" /> -->
+<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
