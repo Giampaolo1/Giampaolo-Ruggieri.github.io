@@ -27,13 +27,13 @@ See [Task Assigned](https://docs.google.com/document/d/1bj_mOkXW3Pmv33xFubiMjrgO
 
 <!-- 4. [HubSpot](https://giampaolo1.github.io/html-css-hubspot/)   -->
 
-### JS Section
+## JS Section
 - [JS Exercises](https://giampaolo1.github.io/JS-exercise/)
 
-### PHP Section (Under construction)
+## PHP Section (Under construction)
 - [PHP Exercises](https://giampaolo1.github.io/PHP-exercise/)
 
-### SQL Section (Under construction)
+## SQL Section (Under construction)
 - [SQL Exercise1](https://docs.google.com/document/d/1kYl5Y8f4msEq6aKSS7sUXFSnrgMxFbbxSdaXw0bcMqM/edit)
 
 <!-- <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon"> -->
