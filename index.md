@@ -28,10 +28,10 @@ See [Task Assigned](https://docs.google.com/document/d/1bj_mOkXW3Pmv33xFubiMjrgO
 <!-- 4. [HubSpot](https://giampaolo1.github.io/html-css-hubspot/)   -->
 
 ## JS Section
-- [JS Exercises](https://giampaolo1.github.io/JS-exercise/)
+- [JS Exercises](https://giampaolo1.github.io/JS-Section/)
 
 ## PHP Section (Under construction)
-- [PHP Exercises](https://giampaolo1.github.io/PHP-exercise/)
+- [PHP Exercises](https://giampaolo1.github.io/PHP-Section/)
 
 ## SQL Section (Under construction)
 - [SQL Exercise1](https://docs.google.com/document/d/1kYl5Y8f4msEq6aKSS7sUXFSnrgMxFbbxSdaXw0bcMqM/edit)
