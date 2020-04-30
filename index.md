@@ -34,6 +34,6 @@ See [Task Assigned](https://docs.google.com/document/d/1bj_mOkXW3Pmv33xFubiMjrgO
 - [PHP Exercises](https://giampaolo1.github.io/PHP-Section/)
 
 ## SQL Section (Under construction)
-- [SQL Exercise1](https://docs.google.com/document/d/1kYl5Y8f4msEq6aKSS7sUXFSnrgMxFbbxSdaXw0bcMqM/edit)
+- [SQL Exercise1](https://drive.google.com/drive/folders/1-D_KSBFUcf7DT-LHmRlH13wpFvgf_8mu)
 
 <!-- <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon"> -->
