@@ -27,11 +27,19 @@ See [Task Assigned](https://docs.google.com/document/d/1bj_mOkXW3Pmv33xFubiMjrgO
 
 <!-- 4. [HubSpot](https://giampaolo1.github.io/html-css-hubspot/)   -->
 
+<<<<<<< HEAD
 ## JS Section
 - [JS Exercises](https://giampaolo1.github.io/JS-exercise/)
 
 ## PHP Section (Under construction)
 - [PHP Exercises](https://giampaolo1.github.io/PHP-exercise/)
+=======
+### JS Section
+- [JS Exercises](https://giampaolo1.github.io/JS-Section/)
+
+### PHP Section (Under construction)
+- [PHP Exercises](https://giampaolo1.github.io/PHP-Section/)
+>>>>>>> fa87cf9cf7cf5f41a8a946cc286fc49bf7dc8335
 
 ## SQL Section (Under construction)
 - [SQL Exercise1](https://docs.google.com/document/d/1kYl5Y8f4msEq6aKSS7sUXFSnrgMxFbbxSdaXw0bcMqM/edit)
