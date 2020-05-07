@@ -36,4 +36,4 @@ See [Task Assigned](https://docs.google.com/document/d/1bj_mOkXW3Pmv33xFubiMjrgO
 ## SQL Section (Under construction)
 - [SQL Exercise1](https://drive.google.com/drive/folders/1-D_KSBFUcf7DT-LHmRlH13wpFvgf_8mu?usp=sharing)
 
-<link rel="shortcut icon" href="download.png" type="image/x-icon">
+<!-- <link rel="shortcut icon" href="download.png" type="image/x-icon"> -->
