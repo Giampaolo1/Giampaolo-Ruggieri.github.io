@@ -23,17 +23,21 @@ See [Task Assigned](https://docs.google.com/document/d/1bj_mOkXW3Pmv33xFubiMjrgO
 2. [TeambitRepo](https://github.com/Giampaolo1/sass-teambit) (Sass)
 3. [DigitalOcean](https://giampaolo1.github.io/html-css-digitalocean/)
 
+### Extra
+
 -  [Animations](https://giampaolo1.github.io/html-css-animation-filter/)
+<!-- -  [Bootstrap](https://giampaolo1.github.io/bootstrap/)
+-  [Flex](https://giampaolo1.github.io/flex/) -->
 
 <!-- 4. [HubSpot](https://giampaolo1.github.io/html-css-hubspot/)   -->
 
 ## JS Section
 - [JS Exercises](https://giampaolo1.github.io/JS-Section/)
 
-## PHP Section (Under construction)
+## PHP Section
 - [PHP Exercises](https://giampaolo1.github.io/PHP-Section/)
 
-## SQL Section (Under construction)
+## SQL Section
 - [SQL Exercise1](https://drive.google.com/drive/folders/1-D_KSBFUcf7DT-LHmRlH13wpFvgf_8mu?usp=sharing)
 
 <!-- <link rel="shortcut icon" href="download.png" type="image/x-icon"> -->
