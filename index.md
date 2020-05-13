@@ -24,9 +24,8 @@ See [Task Assigned](https://docs.google.com/document/d/1bj_mOkXW3Pmv33xFubiMjrgO
 3. [DigitalOcean](https://giampaolo1.github.io/html-css-digitalocean/)
 
 ### Extra
-
--  [Animations](https://giampaolo1.github.io/html-css-animation-filter/)
 -  [Bootstrap](https://giampaolo1.github.io/BootstrapProject/)
+-  [Animations](https://giampaolo1.github.io/html-css-animation-filter/)
 
 <!-- [Flex](https://giampaolo1.github.io/flex/) -->
 <!-- 4. [HubSpot](https://giampaolo1.github.io/html-css-hubspot/) -->
