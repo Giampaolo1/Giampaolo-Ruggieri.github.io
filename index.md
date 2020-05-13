@@ -25,6 +25,7 @@ See [Task Assigned](https://docs.google.com/document/d/1bj_mOkXW3Pmv33xFubiMjrgO
 
 ### Extra
 -  [Bootstrap](https://giampaolo1.github.io/BootstrapProject/)
+-  [BEM](https://giampaolo1.github.io/BEMProject/)
 -  [Animations](https://giampaolo1.github.io/html-css-animation-filter/)
 
 <!-- [Flex](https://giampaolo1.github.io/flex/) -->
