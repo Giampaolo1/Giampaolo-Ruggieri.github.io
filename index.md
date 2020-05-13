@@ -23,9 +23,11 @@ See [Task Assigned](https://docs.google.com/document/d/1bj_mOkXW3Pmv33xFubiMjrgO
 2. [TeambitRepo](https://github.com/Giampaolo1/sass-teambit) (Sass)
 3. [DigitalOcean](https://giampaolo1.github.io/html-css-digitalocean/)
 
-### Extra
--  [Bootstrap](https://giampaolo1.github.io/BootstrapProject/)
--  [Modular Site](https://giampaolo1.github.io/SitoModulareBEM/) (BEM)
+### Mobile (Responsive)
+1. [Bootstrap](https://giampaolo1.github.io/BootstrapProject/)
+2. [Modular Site](https://giampaolo1.github.io/SitoModulareBEM/) (BEM)
+3. [OnePage Scroll](https://giampaolo1.github.io/OnePageScroll/)
+
 -  [Animations](https://giampaolo1.github.io/html-css-animation-filter/)
 
 <!-- [Flex](https://giampaolo1.github.io/flex/) -->
