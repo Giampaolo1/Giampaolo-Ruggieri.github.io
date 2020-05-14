@@ -181,16 +181,14 @@ main {
     main .icons a {
       padding: 0.4rem;
       transition: all 0.5s ease-out; }
-    main .icons .instagram:hover {
-      color: #d43519; }
-    main .icons .facebook:hover {
-      color: #3b5998; }
+    main .icons .cv:hover {
+      color: yellow; }
+      main .icons .diploma:hover {
+        color: orange; }
     main .icons .linkedin:hover {
-      color: #3b6c88; }
-    main .icons .github:hover {
-      color: #9919d4; }
-    main .icons .skype:hover {
       color: #00aff0; }
+    main .icons .github:hover {
+      color: black; }
   main#home {
     position: absolute;
     overflow: hidden; }
