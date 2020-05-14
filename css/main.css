@@ -360,3 +360,7 @@ canvas {
     height: 177px;
     width:310px;
   }
+
+  .nome {
+    font-size: 45px;
+  }
