@@ -35,10 +35,10 @@ function init(){
         }
     }
 
-    $(".fa-instagram, .fa-facebook, .fa-linkedin, .fa-github , .fa-skype").mouseover(function () {
+    $(".fa-instagram, .fa-file-alt, .fa-linkedin, .fa-github , .fa-id-card ").mouseover(function () {
         $(this).addClass("fa-spin")
     })
-    $(".fa-instagram, .fa-facebook, .fa-linkedin, .fa-github , .fa-skype").mouseleave(function () {
+    $(".fa-instagram, .fa-file-alt, .fa-linkedin, .fa-github , .fa-id-card ").mouseleave(function () {
         $(this).removeClass("fa-spin")
     })
 
@@ -58,7 +58,7 @@ function printGraph(){
             labels: ["HTML", "CSS", "JAVASCRIPT", "JQUERY", "VUE.JS", "PHP", "MySQL", "LARAVEL"],
             datasets: [{
                 label: 'Skills',
-                data: [90, 85, 75, 70, 50, 65, 60, 60],
+                data: [90, 85, 78, 70, 50, 65, 60, 60],
                 backgroundColor: [
                     "#d58300",
                     "#e38e00",
@@ -105,5 +105,13 @@ function printGraph(){
         }
     });
 }
+
+// IDEA: Change language to the validate output
+
+//   $("form#my-form").validate({
+//     lang: 'en'
+//   });
+// });
+
 
 $(document).ready(init);
