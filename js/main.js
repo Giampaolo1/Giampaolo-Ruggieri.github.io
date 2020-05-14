@@ -35,10 +35,10 @@ function init(){
         }
     }
 
-    $(".fa-instagram, .fa-file-alt, .fa-linkedin, .fa-github , .fa-id-card ").mouseover(function () {
+    $(".fa-file-alt, .fa-linkedin, .fa-github , .fa-id-card ").mouseover(function () {
         $(this).addClass("fa-spin")
     })
-    $(".fa-instagram, .fa-file-alt, .fa-linkedin, .fa-github , .fa-id-card ").mouseleave(function () {
+    $(".fa-file-alt, .fa-linkedin, .fa-github , .fa-id-card ").mouseleave(function () {
         $(this).removeClass("fa-spin")
     })
 
