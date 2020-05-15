@@ -79,6 +79,16 @@ function printGraph(){
             }]
         },
         options: {
+
+          // animation: true,
+          // animationSteps: 4000,
+          // animationEasing: "linear",
+          // responsive: true,
+          // showTooltips: true,
+          // segmentShowStroke: false,
+          // maintainAspectRatio: true,
+          // percentageInnerCutout: 70,
+
             legend: {
                 display: false,
                 labels: {
@@ -87,7 +97,6 @@ function printGraph(){
                     fontStyle: "bold"
                 }
             },
-
             scales: {
                 xAxes: [{
                     ticks: {
@@ -105,7 +114,6 @@ function printGraph(){
         }
     });
 }
-
 // IDEA: Change language to the validate output
 
 //   $("form#my-form").validate({
