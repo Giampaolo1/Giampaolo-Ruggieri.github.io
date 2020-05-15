@@ -286,8 +286,8 @@ main {
       width: 150px; }
 
 #map {
-  width: 90%;
-  height: 25vh;
+  width: 100%;
+  height: 40vh;
   text-align: initial;
   /* .mapboxgl-canvas{
           position: inherit !important;
