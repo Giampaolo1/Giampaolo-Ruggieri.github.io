@@ -43,7 +43,7 @@
     height: 250px;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     border-radius: 50%;
     border: solid 3px #ee801a; }
 
@@ -347,7 +347,7 @@ canvas {
       height: 150px;
       background-repeat: no-repeat;
       background-position: center;
-      background-size: contain;
+      background-size: cover;
       border-radius: 50%;
       border: solid 3px #ee801a; }
 
