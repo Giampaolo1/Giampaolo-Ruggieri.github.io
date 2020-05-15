@@ -113,13 +113,16 @@ function printGraph(){
             }
         }
     });
+
+    // IDEA: Change language to the validate output
+
+      // $("form").validate({
+      //   lang: "en"
+      // });
+
+    // $("form").validator({ lang: 'en' });
+
+
 }
-// IDEA: Change language to the validate output
-
-//   $("form#my-form").validate({
-//     lang: 'en'
-//   });
-// });
-
 
 $(document).ready(init);
