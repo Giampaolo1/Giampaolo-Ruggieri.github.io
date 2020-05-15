@@ -255,7 +255,7 @@ main {
   padding: 0.5rem 1rem;
   border: 0;
   margin-bottom: 0.3rem; }
-  .btn:hover, .btn-dark:hover {
+  .btn:hover, .btn-dark:hover, .illum:hover {
     background: #ee801a;
     color: #000; }
 
