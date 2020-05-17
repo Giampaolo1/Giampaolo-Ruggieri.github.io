@@ -58,7 +58,7 @@ function printGraph(){
             labels: ["HTML", "CSS", "JAVASCRIPT", "JQUERY", "VUE.JS", "PHP", "MySQL", "LARAVEL"],
             datasets: [{
                 label: 'Skills',
-                data: [90, 85, 78, 70, 50, 65, 60, 60],
+                data: [95, 90, 85, 80, 70, 80, 75, 75],
                 backgroundColor: [
                     "#d58300",
                     "#e38e00",
