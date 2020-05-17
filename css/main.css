@@ -133,6 +133,9 @@ body {
 .language .fa-php {
   color: #a661e7; }
 
+.language .fa-database {
+    color: lightblue; }
+
 .language .fa-js-square {
   color: yellow; }
 
@@ -150,6 +153,9 @@ body {
 
 .language .fa-vuejs {
   color: green; }
+
+.language .fa-bootstrap {
+  color: #3b3bf0; }
 
 h1,
 h2,
