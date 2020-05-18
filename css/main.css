@@ -157,6 +157,9 @@ body {
 .language .fa-bootstrap {
   color: #3b3bf0; }
 
+.language .fa-sliders-h{
+  color: black; }
+
 h1,
 h2,
 h3 {
@@ -304,11 +307,7 @@ main {
 #map {
   width: 100%;
   height: 40vh;
-  text-align: initial;
-
-  /* .mapboxgl-canvas{
-          position: inherit !important;
-        } */ }
+  text-align: initial;}
 
 .tomtomAttribution {
   display: none; }
@@ -384,3 +383,4 @@ canvas {
     height: 177px;
     width:310px;
   }
+}
