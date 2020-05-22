@@ -55,7 +55,7 @@ function printGraph(){
     new Chart(ctx, {
         type: 'horizontalBar',
         data: {
-            labels: ["HTML", "CSS + sass", "Bootstrap/Flex" , "JAVASCRIPT+J.query", "Templating", "VUE.JS / W.PRESS", "PHP", "MySQL", "LARAVEL"],
+            labels: ["HTML", "CSS + Sass", "Bootstrap/Flex" , "JAVASCRIPT+J.query", "Templating", "Vue.JS / W.Press", "PHP", "MySQL", "Laravel"],
             datasets: [{
                 label: 'Skills',
                 data: [95, 90, 75, 84, 70, 70, 80, 80, 70],
