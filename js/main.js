@@ -35,12 +35,12 @@ function init(){
         }
     }
 
-    $(".fa-file-alt, .fa-linkedin, .fa-github , .fa-id-card ").mouseover(function () {
-        $(this).addClass("fa-spin")
-    })
-    $(".fa-file-alt, .fa-linkedin, .fa-github , .fa-id-card ").mouseleave(function () {
-        $(this).removeClass("fa-spin")
-    })
+    // $(".fa-file-alt, .fa-linkedin, .fa-github , .fa-id-card ").mouseover(function () {
+    //     $(this).addClass("fa-spin")
+    // })
+    // $(".fa-file-alt, .fa-linkedin, .fa-github , .fa-id-card ").mouseleave(function () {
+    //     $(this).removeClass("fa-spin")
+    // })
 
     printGraph();
 
