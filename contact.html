@@ -103,14 +103,9 @@
                 </div>
 
                 <div class="col-md-6 ">
-                        <div id='map' class='map' style="position: relative;">
-                        </div>
+                        <div id='map' class='map' style="position: relative;"></div>
                 </div>
-
             </div>
-
-
-
         </section>
         <!-- <div class="col-12" style="padding:0;">
 
@@ -136,13 +131,13 @@
 
 <script>
 
-    var myCoord = [14.2111, 42.4612]
+    var myCoord = [14.2111, 42.4612];
     var map = tt.map({
             key: 'PXlXaqWPf4QFvdznBmvVfmi3AMAscNRm',
             container: 'map',
             style: 'tomtom://vector/1/basic-main',
             center: myCoord,
-            zoom: 8
+            zoom: 8,
         });
     var marker = new tt.Marker().setLngLat(myCoord).addTo(map);
 
@@ -219,5 +214,4 @@
     }
 </script>
 </body>
-
 </html>
