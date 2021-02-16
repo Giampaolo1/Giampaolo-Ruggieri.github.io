@@ -228,8 +228,11 @@ main {
   .about-info .bio-image {
     grid-area: bioimage;
     margin: auto;
-    border-radius: 50%;
-    border: #e7d184 3px solid; }
+    border-radius: 2%;
+    border-bottom: #e7d184 5px inset ;
+    border-left: #e7d184 5px inset;
+   }
+
   .about-info .bio {
     grid-area: bio;
     font-size: 1rem; }
@@ -257,7 +260,7 @@ main {
     .projects img:hover {
       opacity: 0.5;
       border-color: #e7d184;
-      transition: all 0.5s ease-out; }
+      transition: all 0.2s ease-out; }
 
 .boxes {
   display: flex;
@@ -286,7 +289,7 @@ main {
  }
   .btn:hover, .btn-dark:hover, .illum:hover {
     background: #e7d184;
-    color: #35feff;
+    color: black;
  }
 
 .btn-dark {
