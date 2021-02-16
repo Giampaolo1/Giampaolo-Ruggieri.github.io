@@ -230,8 +230,9 @@ main {
     margin: auto;
     width: 100%;
 
-    /* border-radius: 2%;
-    border-bottom: #e7d184 5px inset ;
+    border-radius: 2%;
+
+    /*  border-bottom: #e7d184 5px inset ;
     border-left: #e7d184 5px inset; */
    }
 
