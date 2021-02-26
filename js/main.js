@@ -63,11 +63,11 @@ function printGraph(){
                     "#d58300",
                     "#e38e00",
                     "#f19900",
-                    "#ffa500",
-                    "#ffb11b",
+                    "#e38e00",
+                    "#f19900",
                     "#ffbd2c",
-                    "#ffc93b",
-                    "#ffd93b",
+                    "#f19900",
+                    "#f19900",
                 ],
                 /* borderColor: [
 
