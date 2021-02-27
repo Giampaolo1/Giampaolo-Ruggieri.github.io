@@ -55,25 +55,33 @@ function printGraph(){
     new Chart(ctx, {
         type: 'horizontalBar',
         data: {
-            labels: ["Fintech", "TestWebBDD", "Atlassian" , "Freshdesk", "HTML-CSS", "Javascript", "GIT", "API"],
+            labels: ["Fintech", "TestWebBDD", "Atlassian" , "Freshdesk", "HTML/CSS", "JS/PHP/SQL", "GIT", "API"],
             datasets: [{
                 label: 'Skills',
                 data: [90, 85, 80, 85, 80, 72, 80, 80],
                 backgroundColor: [
-                    "#d58300",
-                    "#e38e00",
-                    "#f19900",
-                    "#e38e00",
-                    "#f19900",
-                    "#ffbd2c",
-                    "#f19900",
-                    "#f19900",
+                  "#35feff",
+                  "#35feff",
+                  "#35feff",
+                  "#35feff",
+                  "#35feff",
+                  "#35feff",
+                  "#35feff",
+                  "#35feff",
+      
                 ],
-                /* borderColor: [
-
-                    'rgba(255, 159, 64, 1)'
-
-                ], */
+                //  borderColor: [
+                //
+                //    "#e7d184",
+                //    "#e7d184",
+                //    "#e7d184",
+                //    "#e7d184",
+                //    "#e7d184",
+                //    "#e7d184",
+                //    "#e7d184",
+                //    "#e7d184",
+                //
+                // ],
 
                 borderWidth: 1
             }]
