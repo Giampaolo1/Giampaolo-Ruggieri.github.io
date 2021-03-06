@@ -132,9 +132,17 @@ body {
   justify-content: space-between;
   align-items: center; }
 
+.language  {
+  white-space: nowrap;
+}
+
+.nowrap {
+  white-space: nowrap;
+}
+
 .language i {
   margin: 3px;
-  font-size: 20px; }
+  font-size: 20px;}
 
 .language .fa-php {
   color: #a661e7; }
@@ -286,6 +294,7 @@ main {
 
 .btn, .btn-dark, .btn-light {
   display: block;
+  width: 100%;
   padding: 0.5rem 1rem;
   border: 0;
   margin-bottom: 0.3rem;
@@ -400,7 +409,7 @@ canvas {
 
   .item img {
     height: 177px;
-    width:310px;
+    width:100%;
   }
 }
 
