@@ -218,12 +218,16 @@ main {
       transition: all 0.5s ease-out; }
     main .icons .cv:hover {
       color: yellow; }
-      main .icons .diploma:hover {
+    main .icons .diploma:hover {
         color: orange; }
     main .icons .linkedin:hover {
       color: #00aff0; }
     main .icons .github:hover {
       color: black; }
+
+    main .icons .spotify:hover {
+      color: #e7d184; }
+
   main#home {
     position: absolute;
     overflow: hidden; }
