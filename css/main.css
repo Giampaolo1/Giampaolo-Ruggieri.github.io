@@ -278,8 +278,9 @@ main {
 }
     .projects img:hover {
       opacity: 0.5;
+      transition: all 0.2s ease-out;
       border-color: #e7d184;
-      transition: all 0.2s ease-out; }
+}
 
 .boxes {
   display: flex;
