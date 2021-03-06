@@ -132,13 +132,15 @@ body {
   justify-content: space-between;
   align-items: center; }
 
-.language  {
+ /* .language  {
   white-space: nowrap;
-}
+  text-overflow: ellipsis;
+} */
 
-.nowrap {
+ /* .nowrap {
   white-space: nowrap;
-}
+  text-overflow: ellipsis;
+} */
 
 .language i {
   margin: 3px;
@@ -264,10 +266,16 @@ main {
 .projects {
   display: grid;
   grid-gap: 0.7rem;
-  grid-template-columns: repeat(3, 1fr); }
+  grid-template-columns: repeat(3, 1fr);
+}
+
   .projects img {
     width: 100%;
-    border: 3px #fff solid; }
+    height: 100%;
+    border: 3px #fff solid;
+    /* width: 3px;
+    height: 3px; */
+}
     .projects img:hover {
       opacity: 0.5;
       border-color: #e7d184;
@@ -294,6 +302,8 @@ main {
 
 .btn, .btn-dark, .btn-light {
   display: block;
+  white-space: nowrap;
+  text-overflow: ellipsis;
   width: 100%;
   padding: 0.5rem 1rem;
   border: 0;
